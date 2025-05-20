@@ -1,6 +1,15 @@
 # 💫 About Me:
-Backend architect who builds full-stack solutions<br>I craft scalable APIs and robust server architectures using Node.js, TypeScript, and Java. <br>Database wrangler with MongoDB and MySQL. Docker enthusiast automating deployments with GitHub Actions.
+## Full-stack developer with Backend expertise<br>
+I build complete web applications with a focus on powerful backends.<br> Comfortable across the stack from database design to functional UI implementation using Node.js, React, TypeScript, and more.. <br>
+Docker enthusiast automating deployments with GitHub Actions.
 
+``` 
+    const developer = {
+        current_focus: "Building scalable backends with functional frontends",
+        learning: "Performance optimization techniques along with Microsevices architecture",
+        looking_for: "Collaborative projects with real-world impact"
+    };
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sankha_suvra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankha-suvra-ghatak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankhasuvhraghatak@gmail.com) 
